@@ -3,7 +3,7 @@ title: "Spell 77: being transformed into a hawk of gold"
 layout: default
 order: 2
 permalink: /explore/the-book-of-the-dead/spell-77
-image: /images/papyrus/BD77v.jpg
+image: /images/thumbnails/BD77v.jpg
 ---
 
 ![]({{site.baseurl}}/images/papyrus/BD77v.jpg)  

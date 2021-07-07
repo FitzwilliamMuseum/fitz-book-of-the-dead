@@ -2,7 +2,7 @@
 title: Dating
 layout: default
 permalink: /ramose/background/dating
-image: /images/papyrus/wife.jpg
+image: /images/thumbnails/wife.jpg
 ---
 ### When did Ramose live?
 

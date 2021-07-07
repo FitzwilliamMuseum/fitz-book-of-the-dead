@@ -3,7 +3,7 @@ title: "Spell 72: going out in the day"
 layout: default
 order: 1
 permalink: /explore/the-book-of-the-dead/spell-72
-image: /images/papyrus/BD72v.jpg
+image: /images/thumbnails/BD72v.jpg
 ---
 ![Vignette from Ramose Book of the Dead]({{site.baseurl}}/images/papyrus/BD72v.jpg)  
 Vignette from Spell 72 of the Book of the Dead of Ramose

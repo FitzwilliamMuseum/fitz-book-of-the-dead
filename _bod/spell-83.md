@@ -3,7 +3,7 @@ title: "Spell 83:being transformed into a benu-bird"
 layout: default
 order: 3
 permalink: /explore/the-book-of-the-dead/spell-83
-image: /images/papyrus/BD83v.jpg
+image: /images/thumbnails/BD83v.jpg
 ---
 
 ![Vignette from Ramose Book of the Dead]({{site.baseurl}}/images/papyrus/BD83v.jpg) Vignette from Spell 83 of the Book of the Dead of Ramose

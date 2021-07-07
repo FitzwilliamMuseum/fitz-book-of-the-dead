@@ -3,7 +3,7 @@ title: 'Spell 87.1: being transformed a son of the earth'
 layout: default
 order: 4
 permalink: '/explore/books/spells/87-1'
-image: /images/papyrus/BD87v.jpg
+image: /images/thumbnails/BD87v.jpg
 ---
 ![Vignette from Spell 87 of the  Book of the Dead of Ramose]({{site.baseurl}}/images/papyrus/BD87v.jpg)
 

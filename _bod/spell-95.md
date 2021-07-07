@@ -3,7 +3,7 @@ title: 'Spell 95: for being in the presence of Thoth'
 layout: default
 order: 5
 permalink: '/explore/the-book-of-the-dead/spell-95'
-image: /images/papyrus/BD95v.jpg
+image: /images/thumbnails/BD95v.jpg
 ---
 
 ![Vignette from Ramose Book of the Dead]({{site.baseurl}}/images/papyrus/BD95v.jpg)

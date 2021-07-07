@@ -2,7 +2,7 @@
 title: "Ramose's Occupation"
 layout: default
 permalink: /ramose/background/employment
-image: /images/name_title.jpg
+image: /images/thumbnails/name_title.jpg
 ---
 
 ![Vignette from Ramose Book of the Dead]({{site.baseurl}}/images/name_title.jpg)

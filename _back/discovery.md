@@ -2,7 +2,7 @@
 title: Ramose’s burial at Sedment
 layout: default
 permalink: '/ramose/background/discovery'
-image: /images/sedmenttents.jpg
+image: /images/thumbnails/sedmenttents.jpg
 ---
 
 The Book of the Dead of Ramose was discovered by the famous archaeologist [Sir William Matthew Flinders Petrie](https://en.wikipedia.org/wiki/Flinders_Petrie) (usually known as Flinders Petrie).

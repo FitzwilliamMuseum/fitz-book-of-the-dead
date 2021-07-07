@@ -2,6 +2,7 @@
 title: The Ramose Book of the Dead
 layout: default
 permalink: '/ramose/background/book-of-the-dead'
+image: /images/papyrus/BD148sokar.jpg
 ---
 ### The size of the papyrus
 

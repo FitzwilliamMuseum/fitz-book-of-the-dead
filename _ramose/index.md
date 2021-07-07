@@ -26,7 +26,7 @@ The document itself is made from individual sheets of papyrus which have been st
     <div class="col-md-3 mb-3">
       <div class="card h-100" >
         <a href="{{site.url}}{{site.baseurl}}{{ bod.permalink }}" class="stretched-link">
-          <img class="card-img-top" src="{{site.url}}{{site.baseurl}}/images/front/E.2.1922a_dc1.jpg" alt="Card image cap" width="300" height="300"/>
+          <img class="card-img-top" src="{{site.url}}{{site.baseurl}}{{bod.image}}" alt="Card image cap" width="300" height="300"/>
         </a>
         <div class="card-body">
           <h3 class="lead mt-2">

@@ -23,7 +23,7 @@ The document itself is made from individual sheets of papyrus which have been st
 {% assign offset = forloop.index0 | times: 2 %}
 {% assign sorted = site.back | sort:"order" %}
     {% for bod in sorted limit:2 offset:offset %}
-    <div class="col-md-3 mb-3">
+    <div class="col-md-4 mb-3">
       <div class="card h-100" >
         <a href="{{site.url}}{{site.baseurl}}{{ bod.permalink }}" class="stretched-link">
           <img class="card-img-top" src="{{site.url}}{{site.baseurl}}{{bod.image}}" alt="Card image cap" width="300" height="300"/>

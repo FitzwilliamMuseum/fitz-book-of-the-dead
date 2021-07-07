@@ -3,6 +3,7 @@ title: 'Spell 125: Osiris and the judgement of the dead'
 layout: default
 order: 6
 permalink: '/explore/the-book-of-the-dead/spell-125'
+image: /images/papyrus/BD125v.jpg
 ---
 
 ![Vignette from Ramose Book of the Dead]({{site.baseurl}}/images/papyrus/BD125v.jpg)

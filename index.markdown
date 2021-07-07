@@ -17,10 +17,8 @@ Egyptian Books of the Dead were provided as part of a person’s burial equipmen
 
 For the period of the exhibition (this exhibition was held at the Fitzwilliam Museum, 19 June to 16 September 2007) almost the whole papyrus can be viewed for the first time since its burial in Ramose’s tomb in the 13th century BC.
 
-* * *
-
 Production of this website has been made possible thanks to the generosity of the [Anna Plowden Trust](http://www.annaplowdentrust.org.uk/)
 
 The project to study and preserve the papyrus was funded through a generous grant from the [Getty Foundation](http://www.getty.edu/).
 
-The support of the [Heritage Lottery Fund](http://www.hlf.org.uk/) , [The Isaac Newton Trust](http://www.newtontrust.cam.ac.uk/) and The Aurelius Charitable Trust is also gratefully acknowledged.
+The support of the [Heritage Lottery Fund](http://www.hlf.org.uk/), [The Isaac Newton Trust](http://www.newtontrust.cam.ac.uk/) and The Aurelius Charitable Trust is also gratefully acknowledged.

@@ -18,15 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Site title"
-email: "crsid@cam.ac.uk"
+title: "Passport to the Egyptian Afterlife: The Book of the Dead of Ramose"
+email: "dejp3@cam.ac.uk"
 description: >- # this means to ignore newlines until "baseurl:"
-  "Website description"
-baseurl: "/reponame" # the subpath of your site, e.g. /blog
+  "Since it arrived at the Fitzwilliam Museum in 1922, the papyrus containing the
+  Book of the Dead written for the supervisor of royal archives, Ramose, has remained
+  in storage, with the exception of two sections that were displayed for about
+  40 years. "
+baseurl: "/book-of-the-dead" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
-background: "" 
+
+background: "/images/front/E.2.1922a_dc1.jpg"
 # Build settings
 plugins:
   - jekyll-feed
@@ -43,17 +47,16 @@ plugins:
 collections:
    exhibition:
       output: true
-   about:
+   bod:
       output: true
-   resources:
+   explore:
       output: true
-   team:
-      output: true
-   blog:
-      output: true
-feed:
-  collections:
-    - blog
+   ramose:
+     output: true
+   conservation:
+     output: true
+   back:
+     output: true
 
 timezone: Europe/London
 permalink: pretty

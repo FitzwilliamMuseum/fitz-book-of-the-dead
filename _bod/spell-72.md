@@ -17,8 +17,6 @@ One of the principal themes of the Book of the Dead was the concept of going out
 ![]({{site.baseurl}}/images/papyrus/bod_72_1.jpg){: .img-fluid }
 ![]({{site.baseurl}}/images/papyrus/BD72pt1.jpg){: .img-fluid }
 
-Click on grey parts of the papyrus to see the translations of that part of the spell
-
 ## Translation
 {: .lead .text-success }
 
@@ -29,8 +27,6 @@ Click on grey parts of the papyrus to see the translations of that part of the s
 ![]({{site.baseurl}}/images/papyrus/bod_72_2.jpg){: .img-fluid }
 ![]({{site.baseurl}}/images/papyrus/BD72pt2.jpg){: .img-fluid }
 
-Click on grey parts of the papyrus to see the translations of that part of the spell
-
 ### Translation
 {: .text-success .display-5}
 
@@ -40,8 +36,6 @@ Click on grey parts of the papyrus to see the translations of that part of the s
 
 ![]({{site.baseurl}}/images/papyrus/bod_72_3.jpg){: .img-fluid }
 ![]({{site.baseurl}}/images/papyrus/BD72pt3.jpg){: .img-fluid }
-
-Click on grey parts of the papyrus to see the translations of that part of the spell
 
 ## Translation
 {: .text-success .display-5}

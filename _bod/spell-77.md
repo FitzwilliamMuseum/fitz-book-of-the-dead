@@ -32,8 +32,6 @@ For being transformed into a hawk of gold. Words said by the Osiris, superivisor
 ![]({{site.baseurl}}/images/papyrus/bod_77_2.jpg){: .img-fluid }
 ![]({{site.baseurl}}/images/papyrus/BD77pt2.jpg){: .img-fluid }
 
-Click on grey parts of the papyrus to see the translations of that part of the spell
-
 ## Translation
 {: .text-success .display-5}
 
@@ -43,8 +41,6 @@ Click on grey parts of the papyrus to see the translations of that part of the s
 
 ![]({{site.baseurl}}/images/papyrus/bod_77_3.jpg){: .img-fluid }
 ![]({{site.baseurl}}/images/papyrus/BD77pt3.jpg){: .img-fluid }
-
-Click on grey parts of the papyrus to see the translations of that part of the spell
 
 ## Translation
 {: .text-success .display-5}

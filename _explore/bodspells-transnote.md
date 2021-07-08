@@ -1,7 +1,8 @@
 ---
 title: "Notes on translation"
-permalink: /explore/books/notes-on-translations
+permalink: /explore/book-of-the-dead/notes-on-translations
 layout: default
+image: /images/thumbnails/06c.jpg
 ---
 
 There are often problems that occur with translating, and this is particularly true for ancient languages. This note explains some of the conventions that have been used in these translations.

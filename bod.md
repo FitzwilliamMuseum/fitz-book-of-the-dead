@@ -1,10 +1,10 @@
 ---
 layout: default
-permalink: /explore/books/
-title: Explore books of the dead
+permalink: /explore/book-of-the-dead/
+title: Explore the Book of the Dead
 ---
 
-![Vignette from Ramose Book of the Dead]({{site.baseurl}}/images/papyrus/bod1.jpg)
+![Vignette from Ramose Book of the Dead]({{site.baseurl}}/images/papyrus/bod1.jpg){: .img-fluid }
 
 Vignette from Spell 15:
 > ‘for worshipping Ra  
@@ -21,10 +21,36 @@ The ancient Egyptians themselves referred to this text as ‘Recitations (spells
 
 <div class="container mb-3">
   <div class="row">
-{% assign rows = site.bod.size | divided_by: 2.0 | ceil %}
-{% for i in (1..rows) %}
-{% assign offset = forloop.index0 | times: 2 %}
-{% assign sorted = site.bod | sort:"order" %}
+  {% assign rows = site.bod.size | divided_by: 2.0 | ceil %}
+  {% for i in (1..rows) %}
+  {% assign offset = forloop.index0 | times: 2 %}
+  {% assign sorted = site.bod | sort:"order" %}
+    {% for bod in sorted limit:2 offset:offset %}
+    <div class="col-md-4 mb-3">
+      <div class="card h-100" >
+        <a href="{{site.url}}{{site.baseurl}}{{ bod.permalink }}" class="stretched-link">
+          <img class="card-img-top" src="{{site.url}}{{site.baseurl}}{{bod.image}}" alt="Card image cap" width="300" height="300"/>
+        </a>
+        <div class="card-body">
+          <h3 class="lead mt-2">
+            <a href="{{site.url}}{{site.baseurl}}{{ bod.permalink }}" class="stretched-link">{{bod.title}}</a>
+          </h3>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  {% endfor %}
+  </div>
+</div>
+
+## Background reading
+
+<div class="container mb-3">
+  <div class="row">
+  {% assign rows = site.explore.size | divided_by: 2.0 | ceil %}
+  {% for i in (1..rows) %}
+  {% assign offset = forloop.index0 | times: 2 %}
+  {% assign sorted = site.explore | sort:"order" %}
     {% for bod in sorted limit:2 offset:offset %}
     <div class="col-md-4 mb-3">
       <div class="card h-100" >

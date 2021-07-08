@@ -6,11 +6,10 @@ permalink: '/explore/the-book-of-the-dead/spell-95'
 image: /images/thumbnails/BD95v.jpg
 ---
 
-![Vignette from Ramose Book of the Dead]({{site.baseurl}}/images/papyrus/BD95v.jpg){: .img-fluid }
-
+![Vignette from Ramose Book of the Dead]({{site.baseurl}}/images/papyrus/BD95v.jpg){: .img-fluid }  
 Vignette from Spell 95 of the Book of the Dead of Ramose
 
-Spell 95 is &lsquo;for being in the presence of Thoth&rsquo;, The vignette (small picture) shows Ramose bowing slightly forward and raising his arms in worship before an ibis-headed god, who is sitting on a white, shrine-shaped plinth. The god in question is [Thoth](https://en.wikipedia.org/wiki/Thoth).
+Spell 95 is 'for being in the presence of Thoth', The vignette (small picture) shows Ramose bowing slightly forward and raising his arms in worship before an ibis-headed god, who is sitting on a white, shrine-shaped plinth. The god in question is [Thoth](https://en.wikipedia.org/wiki/Thoth).
 
 He has a symbol of the moon, both as a crescent and as the full moon, on his head. The figure of Ramose is very well painted; as well his eye being outlined in black and a tiny black beard, the folds in his neck are also shown in thin black lines, indicating that his head is bowed forward.
 
@@ -19,7 +18,6 @@ He has a symbol of the moon, both as a crescent and as the full moon, on his hea
 
 ![]({{site.baseurl}}/images/papyrus/bod_95_1.jpg{: .img-fluid }
 ![]({{site.baseurl}}/images/papyrus/images/BD95pt1.jpg){: .img-fluid }
-
 
 ## Translation
 {: .lead .text-success }

@@ -9,7 +9,7 @@ image: /images/thumbnails/BD83v.jpg
 ![Vignette from Ramose Book of the Dead]({{site.baseurl}}/images/papyrus/BD83v.jpg){: .img-fluid }  
 Vignette from Spell 83 of the Book of the Dead of Ramose
 
-Spells 83 enables Ramose to turn into a _benu_\-bird. This mythical bird was associated with the sun-god, especially the rising sun, and so with daily re-birth. In later times people equated it with the phoenix, perhaps because they were both believed to be repeatedly re-born from a fiery origin.
+Spells 83 enables Ramose to turn into a _benu_-bird. This mythical bird was associated with the sun-god, especially the rising sun, and so with daily re-birth. In later times people equated it with the phoenix, perhaps because they were both believed to be repeatedly re-born from a fiery origin.
 
 They way it was depicted varied at different periods. In the Books of the Dead it is usually shown in the form of a heron, as here.
 

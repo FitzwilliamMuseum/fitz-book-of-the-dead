@@ -1,7 +1,8 @@
 ---
 title: Egyptian funerary literature
 layout: default
-permalink: /explore/funerary-literature
+permalink: /explore/book-of-the-dead/funerary-literature
+image: /images/thumbnails/ba.jpg
 ---
 The origins of the collection of texts that we call The Book of the Dead can be traced back through other collections of writings, particularly the Pyramid Texts and the Coffin Texts.
 
@@ -15,14 +16,13 @@ The texts, which had no illustrations with them, have a number of themes and mos
 ## Coffin Texts
 {: .text-success .display-5 }
 
-
- ![Vignette from Ramose Book of the Dead]({{site.baseurl}}/images/papyrus/ba.jpg)
+![Vignette from Ramose Book of the Dead]({{site.baseurl}}/images/papyrus/ba.jpg)
 
 Ramose’s _ba_\-spirit flying out of his tomb. Detail from Spell 92.
 
 At the end of the Old Kingdom, some extracts of the Pyramid Texts occasionally appeared in the burials of private, non-royal people. This change developed further into the set of texts that we know as Coffin Texts, which were most commonly inscribed on the rectangular wooden coffins of non-royal people from the Middle Kingdom (around 2046–1794 BC).
 
-Like the Pyramid Texts, the Coffin Texts were laid out on the walls of the coffins according to a clearly defined scheme. The texts were concerned with the continuation of life through the _ka_ and the _ba_, the two principal elements of the [soul]({{site.baseurl}}/explore/souls) in ancient Egyptian thought. There was a new feature in the Coffin Texts in the form of spells, which acted as guides to the afterlife. They were often illustrated with a map. A good example of this is found on the base of the [outer coffin of Gua in the British Museum](https://www.britishmuseum.org/collection/object/Y_EA30840).
+Like the Pyramid Texts, the Coffin Texts were laid out on the walls of the coffins according to a clearly defined scheme. The texts were concerned with the continuation of life through the _ka_ and the _ba_, the two principal elements of the [soul]({{site.baseurl}}/explore/book-of-the-dead/the-soul-in-ancient-egypt) in ancient Egyptian thought. There was a new feature in the Coffin Texts in the form of spells, which acted as guides to the afterlife. They were often illustrated with a map. A good example of this is found on the base of the [outer coffin of Gua in the British Museum](https://www.britishmuseum.org/collection/object/Y_EA30840).
 
 ## The Book of the Dead
 {: .text-success .display-5 }
@@ -34,7 +34,7 @@ The collection of texts which we now call the Book of the Dead first appeared in
 
 Vignette from Spell 105 for providing for the _ka_\-spirit of Ramose
 
-The spells were often illustrated with small pictures (vignettes) which could be very detailed (as is the case with the vignettes of Ramose’s papyrus). An important new spell, which is not found in the earlier funerary texts, is [Spell 125](/explores/spells/125-1) in which the dead person was judged in order to determine whether he or she should be allowed access to a continued existence.
+The spells were often illustrated with small pictures (vignettes) which could be very detailed (as is the case with the vignettes of Ramose’s papyrus). An important new spell, which is not found in the earlier funerary texts, is [Spell 125]({{site.baseurl}}/explore/the-book-of-the-dead/spell-125) in which the dead person was judged in order to determine whether he or she should be allowed access to a continued existence.
 
 ## Other funerary literature
 {: .text-success .display-5 }

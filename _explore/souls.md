@@ -1,7 +1,8 @@
 ---
 title: The soul in ancient Egypt
 layout: default
-permalink: /explore/books/the-soul-in-ancient-egypt
+permalink: /explore/book-of-the-dead/the-soul-in-ancient-egypt
+image: /images/thumbnails/shut.jpg
 ---
 
 The ancient Egyptians believed that what we think of as a soul consisted of more than one concept, perhaps because they saw it as something too complex to be expressed simply by a single word. The most common types of soul were the _ka_ and the _ba_.
@@ -13,10 +14,8 @@ The _ka_ was formed as a person’s double at the time he or she was created. It
 
 The Egyptians also believed that a person’s _ka_ contained some aspects of personality inherited from his or her father.
 
- [![Vignette from Ramose Book of the Dead](../images/tnBD92v.jpg)](../../../_functions/imagewindow.php?../gallery/papyrus/images/BD92v.jpg")
-
-Vignette from Spell 92 of the
-Book of the Dead of Ramose
+![Vignette from Ramose Book of the Dead]({{site.baseurl}}/images/papyrus/BD92v.jpg){: .img-fluid }  
+Vignette from Spell 92
 
 ### Ba
 {: .lead .text-success}
@@ -30,7 +29,7 @@ For example, in spell 92 we see the ba flying out through the doorway of the tom
 
 The ancient Egyptians believed the shadow, which they called the _shut_ (pronounced ‘shoot’), to be another part of a person’s soul. There are very few pictures of the _shut_; where it does appear, it was represented as a black silhouette with an eye. Spell 92 (mentioned above) was said to be ‘for opening the tomb for the ba-spirit and the shadow so that they may go out in the day’. These two elements, the _ba_ and the _shut_, often appear in similar contexts in texts like the Book of the Dead.
 
-![Vignette from Ramose Book of the Dead](../images/tnshut.jpg)
+![Vignette from Ramose Book of the Dead]({{site.baseurl}}/images/papyrus/shut.jpg){: .img-fluid }
 
 The word _shut_ is written with a fan-shaped sunshade (seen in this detail from spell 92).
 

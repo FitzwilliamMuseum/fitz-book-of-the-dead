@@ -44,6 +44,7 @@ The ancient Egyptians themselves referred to this text as ‘Recitations (spells
 </div>
 
 ## Background reading
+{: .lead }
 
 <div class="container mb-3">
   <div class="row">

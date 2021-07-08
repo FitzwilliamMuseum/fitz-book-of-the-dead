@@ -9,7 +9,7 @@ image: /images/thumbnails/BD77v.jpg
 ![]({{site.baseurl}}/images/papyrus/BD77v.jpg){: .img-fluid }    
 Vignette from Spell 77 of the Book of the Dead of Ramose
 
-Spells 77 enables Ramose to turn into a hawk of gold. The text tells us that his back is 7 cubits (about 3.7 meters) in length, with wings made of green stone and the head of a _benu-_bird (which can be seen in [spell 83](/explore/the-book-of-the-dead/spell-83)).
+Spells 77 enables Ramose to turn into a hawk of gold. The text tells us that his back is 7 cubits (about 3.7 meters) in length, with wings made of green stone and the head of a _benu_-bird (which can be seen in [spell 83]({{site.baseurl}}/explore/the-book-of-the-dead/spell-83)).
 
 The picture for this spell shows a golden hawk-figure which is standing on a mat. It has a golden flail at its shoulder.
 

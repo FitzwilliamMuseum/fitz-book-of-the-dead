@@ -16,8 +16,8 @@ As in this papyrus, spell 87 is often found with spells 86 (for being transforme
 
 ## Spell 87.1
 
-![]({{site.baseurl}}/images/papyrus/bod_87_1.jpg)
-![]({{site.baseurl}}/images/papyrus/BD87pt1.jpg)
+![]({{site.baseurl}}/images/papyrus/bod_87_1.jpg){: .img-fluid }
+![]({{site.baseurl}}/images/papyrus/BD87pt1.jpg){: .img-fluid }
 
 ## Translation
 {: .lead .text-success }
@@ -26,8 +26,8 @@ As in this papyrus, spell 87 is often found with spells 86 (for being transforme
 
 ## Spell 87.2
 
-![]({{site.baseurl}}/images/papyrus/bod_87_2.jpg)
-![]({{site.baseurl}}/images/papyrus/BD87pt2.jpg)
+![]({{site.baseurl}}/images/papyrus/bod_87_2.jpg){: .img-fluid }
+![]({{site.baseurl}}/images/papyrus/BD87pt2.jpg){: .img-fluid }
 
 ## Translation
 {: .lead .text-success }
@@ -36,8 +36,8 @@ As in this papyrus, spell 87 is often found with spells 86 (for being transforme
 
 ## Spell 87.3
 
-![]({{site.baseurl}}/images/papyrus/bod_87_3.jpg)
-![]({{site.baseurl}}/images/papyrus/BD87pt3.jpg)
+![]({{site.baseurl}}/images/papyrus/bod_87_3.jpg){: .img-fluid }
+![]({{site.baseurl}}/images/papyrus/BD87pt3.jpg){: .img-fluid }
 
 ### Translation
 {: .lead .text-success }

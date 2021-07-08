@@ -6,7 +6,7 @@ permalink: /explore/the-book-of-the-dead/spell-77
 image: /images/thumbnails/BD77v.jpg
 ---
 
-![]({{site.baseurl}}/images/papyrus/BD77v.jpg)  
+![]({{site.baseurl}}/images/papyrus/BD77v.jpg){: .img-fluid }    
 Vignette from Spell 77 of the Book of the Dead of Ramose
 
 Spells 77 enables Ramose to turn into a hawk of gold. The text tells us that his back is 7 cubits (about 3.7 meters) in length, with wings made of green stone and the head of a _benu-_bird (which can be seen in [spell 83](/explore/the-book-of-the-dead/spell-83)).
@@ -17,8 +17,8 @@ In Ramose's Book of the Dead, as in many other examples, this spell is accompani
 
 ## Spell 77.1
 
-![]({{site.baseurl}}/images/papyrus/bod_77_1.jpg)
-![]({{site.baseurl}}/images/papyrus/BD77pt1.jpg)
+![]({{site.baseurl}}/images/papyrus/bod_77_1.jpg){: .img-fluid }
+![]({{site.baseurl}}/images/papyrus/BD77pt1.jpg){: .img-fluid }
 
 ## Translation
 {: .text-success .display-5}
@@ -29,8 +29,8 @@ For being transformed into a hawk of gold. Words said by the Osiris, superivisor
 
 ## Spell 77.2
 
-![]({{site.baseurl}}/images/papyrus/bod_77_2.jpg)
-![]({{site.baseurl}}/images/papyrus/BD77pt2.jpg)
+![]({{site.baseurl}}/images/papyrus/bod_77_2.jpg){: .img-fluid }
+![]({{site.baseurl}}/images/papyrus/BD77pt2.jpg){: .img-fluid }
 
 Click on grey parts of the papyrus to see the translations of that part of the spell
 
@@ -41,8 +41,8 @@ Click on grey parts of the papyrus to see the translations of that part of the s
 
 ## Spell 77.3
 
-![]({{site.baseurl}}/images/papyrus/bod_77_3.jpg)
-![]({{site.baseurl}}/images/papyrus/BD77pt3.jpg)
+![]({{site.baseurl}}/images/papyrus/bod_77_3.jpg){: .img-fluid }
+![]({{site.baseurl}}/images/papyrus/BD77pt3.jpg){: .img-fluid }
 
 Click on grey parts of the papyrus to see the translations of that part of the spell
 

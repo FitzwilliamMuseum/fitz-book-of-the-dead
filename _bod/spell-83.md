@@ -6,7 +6,8 @@ permalink: /explore/the-book-of-the-dead/spell-83
 image: /images/thumbnails/BD83v.jpg
 ---
 
-![Vignette from Ramose Book of the Dead]({{site.baseurl}}/images/papyrus/BD83v.jpg) Vignette from Spell 83 of the Book of the Dead of Ramose
+![Vignette from Ramose Book of the Dead]({{site.baseurl}}/images/papyrus/BD83v.jpg){: .img-fluid }  
+Vignette from Spell 83 of the Book of the Dead of Ramose
 
 Spells 83 enables Ramose to turn into a _benu_\-bird. This mythical bird was associated with the sun-god, especially the rising sun, and so with daily re-birth. In later times people equated it with the phoenix, perhaps because they were both believed to be repeatedly re-born from a fiery origin.
 
@@ -16,8 +17,8 @@ The way the bird has been painted on this papyrus is very skillful and gives one
 
 ## Spell 83.1: being transformed into a benu-bird
 
-![]({{site.baseurl}}/images/papyrus/bod_83_1.jpg)
-![]({{site.baseurl}}/images/papyrus/BD83pt1.jpg)
+![]({{site.baseurl}}/images/papyrus/bod_83_1.jpg){: .img-fluid }
+![]({{site.baseurl}}/images/papyrus/BD83pt1.jpg){: .img-fluid }
 
 ### Translation
 {: .text-success .display-5}
@@ -25,8 +26,8 @@ The way the bird has been painted on this papyrus is very skillful and gives one
 > For being transformed into</span> a _benu_-bird. Words said by the Osiris, superivisor of archivists, Ramose, justified. I have flown up in primaeval time. I have become Khepri. I have grown like a plant. I have decked myself as a turtle. I am ...
 ## Spell 83.2: being transformed into a benu-bird
 
-![]({{site.baseurl}}/images/papyrus/bod_83_2.jpg)
-![]({{site.baseurl}}/images/papyrus/BD83pt2.jpg)
+![]({{site.baseurl}}/images/papyrus/bod_83_2.jpg){: .img-fluid }
+![]({{site.baseurl}}/images/papyrus/BD83pt2.jpg){: .img-fluid }
 
 
 ### Translation

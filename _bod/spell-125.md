@@ -6,7 +6,7 @@ permalink: '/explore/the-book-of-the-dead/spell-125'
 image: /images/thumbnails/BD125v.jpg
 ---
 
-![Vignette from Ramose Book of the Dead]({{site.baseurl}}/images/papyrus/BD125v.jpg)
+![Vignette from Ramose Book of the Dead]({{site.baseurl}}/images/papyrus/BD125v.jpg){: .img-fluid }
 
 Osiris scene from Spell 125, Book of the Dead of Ramose
 
@@ -22,7 +22,7 @@ To the left of these fragments would have been the famous judgement scene, in wh
 
 To the right of the scene with Osiris is a long text often known as the Negative Confession. It consists of a series of columns divided in two by a small image of a seated god.
 
-![Vignette from Ramose Book of the Dead]({{site.baseurl}}/images/papyrus/BD125nc.jpg)
+![Vignette from Ramose Book of the Dead]({{site.baseurl}}/images/papyrus/BD125nc.jpg){: .img-fluid }
 
 _The Negative Confession from the Book of the Dead of Ramose_
 
@@ -30,7 +30,7 @@ In the top half of each column, the text invokes the name of the god depicted in
 
 >'Oh Blood-eater, who comes out from the place of execution, I have not killed a sacred bull.
 
-![Vignette from Ramose Book of the Dead]({{site.baseurl}}/images/papyrus/BD125gods.jpg)
+![Vignette from Ramose Book of the Dead]({{site.baseurl}}/images/papyrus/BD125gods.jpg){: .img-fluid }
 
 Small images of seated gods from the Negative Confession, Book of the Dead of Ramose
 

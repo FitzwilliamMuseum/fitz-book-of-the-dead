@@ -4,7 +4,7 @@ layout: default
 permalink: /conservation
 ---
 
-![Vignette from Ramose Book of the Dead]({{site.baseurl}}/images/06c.jpg)
+![Vignette from Ramose Book of the Dead]({{site.baseurl}}/images/06c.jpg){: .img-fluid }
 
 Ramose holding a hieroglyph representing air. From Spell 57 ‘for breathing air and having power over water in the necropolis’, Book of the Dead of Ramose
 

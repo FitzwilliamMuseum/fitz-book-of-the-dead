@@ -1,5 +1,5 @@
 ---
-title: "Spell 83:being transformed into a benu-bird"
+title: "Spell 83: being transformed into a benu-bird"
 layout: default
 order: 3
 permalink: /explore/the-book-of-the-dead/spell-83
@@ -15,7 +15,8 @@ They way it was depicted varied at different periods. In the Books of the Dead i
 
 The way the bird has been painted on this papyrus is very skillful and gives one a sense of the delicate shape of the bird’s body, and the downy feathers on its chest. The sharp beak is also really well depicted.
 
-## Spell 83.1: being transformed into a benu-bird
+## Spell 83.1
+{: .lead }
 
 ![]({{site.baseurl}}/images/papyrus/bod_83_1.jpg){: .img-fluid }
 ![]({{site.baseurl}}/images/papyrus/BD83pt1.jpg){: .img-fluid }
@@ -24,7 +25,8 @@ The way the bird has been painted on this papyrus is very skillful and gives one
 {: .text-success .display-5}
 
 > For being transformed into</span> a _benu_-bird. Words said by the Osiris, superivisor of archivists, Ramose, justified. I have flown up in primaeval time. I have become Khepri. I have grown like a plant. I have decked myself as a turtle. I am ...
-## Spell 83.2: being transformed into a benu-bird
+## Spell 83.2
+{: .lead }
 
 ![]({{site.baseurl}}/images/papyrus/bod_83_2.jpg){: .img-fluid }
 ![]({{site.baseurl}}/images/papyrus/BD83pt2.jpg){: .img-fluid }

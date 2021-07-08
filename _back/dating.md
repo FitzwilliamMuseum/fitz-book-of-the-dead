@@ -1,10 +1,9 @@
 ---
-title: Dating
+title: When did Ramose live?
 layout: default
 permalink: /ramose/background/dating
 image: /images/thumbnails/wife.jpg
 ---
-### When did Ramose live?
 
 We can use the evidence of the finds discovered in his tomb, as well as evidence from the papyrus itself (the forms of the written signs, and the clothing styles, etc., that appear in the paintings), to work out when Ramose was alive.
 

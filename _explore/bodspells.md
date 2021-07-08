@@ -30,6 +30,7 @@ We do not know whether the person buying a papyrus would necessarily be involved
 
 ### Spells in the Book of the Dead of Ramose
 {: .lead }
+
 <div class="container mb-3">
   <div class="row">
 {% assign rows = site.bod.size | divided_by: 2.0 | ceil %}

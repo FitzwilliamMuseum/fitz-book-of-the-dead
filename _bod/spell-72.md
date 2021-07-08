@@ -13,6 +13,7 @@ Spell 72 is one of several spells which are ‘for going out in the day’. The 
 One of the principal themes of the Book of the Dead was the concept of going out in the day. This was an important way in which the person named in the Book was able to continue to exist in the [afterlife]({{site.baseurl}}/exlore/egyptian-funerary-beliefs).
 
 ## Spell 72.1
+{: .lead }
 
 ![]({{site.baseurl}}/images/papyrus/bod_72_1.jpg){: .img-fluid }
 ![]({{site.baseurl}}/images/papyrus/BD72pt1.jpg){: .img-fluid }
@@ -23,6 +24,7 @@ One of the principal themes of the Book of the Dead was the concept of going out
 > Spell for going out in the day: recitation by</span> the Osiris, supervisor of archivists of the Lord of the Two Lands, Ramose, justified, after opening the tomb. He says: 'Hail to you, possessors of right souls, without falsehood, who exist for always in the borders of eternity. Open up to me! Having been an <em>akh</em>-spirit in form, ...
 
 ## Spell 72.2
+{: .lead }
 
 ![]({{site.baseurl}}/images/papyrus/bod_72_2.jpg){: .img-fluid }
 ![]({{site.baseurl}}/images/papyrus/BD72pt2.jpg){: .img-fluid }
@@ -33,6 +35,7 @@ One of the principal themes of the Book of the Dead was the concept of going out
 >... I am an <em>akh</em>-spirit, having arisen by my magic, having been recognised as my <em>akh</em>-spirit. Save me from the agressor in this land [of the truth. Give] me my voice to speak. Give me ...
 
 ## Spell 72.3
+{: .lead }
 
 ![]({{site.baseurl}}/images/papyrus/bod_72_3.jpg){: .img-fluid }
 ![]({{site.baseurl}}/images/papyrus/BD72pt3.jpg){: .img-fluid }

@@ -5,8 +5,7 @@ permalink: /ramose/background/employment
 image: /images/thumbnails/name_title.jpg
 ---
 
-![Vignette from Ramose Book of the Dead]({{site.baseurl}}/images/name_title.jpg)
-
+![Vignette from Ramose Book of the Dead]({{site.baseurl}}/images/name_title.jpg){: .img-fluid }  
 Ramose's job title and name
 
 In his Book of the Dead, Ramose’s job title is given as either _hery sau seshu en neb tawy_, which we translate as ‘supervisor of archivists of the Lord of the Two Lands’, or simply as _hery sau seshu,_ ‘supervisor of archivists’. The phrase ‘Lord of the Two Lands’ is a very regular way of referring to the King of Egypt.

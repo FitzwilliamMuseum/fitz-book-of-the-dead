@@ -3,7 +3,7 @@ title: Analysis and examination
 layout: default
 permalink: /conservation/analysis
 ---
-![Vignette from Ramose Book of the Dead]({{site.baseurl}}/images/04a.jpg)
+![Vignette from Ramose Book of the Dead]({{site.baseurl}}/images/04a.jpg){: .img-fluid }
 
 Spell 105 _‘for providing for the ka-spirit of Ramose’_{:.text-danger} and Spell 95 _‘for being in the presence of Thoth’_{:.text-danger}, Book of the Dead of Ramose
 

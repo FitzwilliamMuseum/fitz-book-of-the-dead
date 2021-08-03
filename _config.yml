@@ -25,8 +25,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Book of the Dead written for the supervisor of royal archives, Ramose, has remained
   in storage, with the exception of two sections that were displayed for about
   40 years. "
-baseurl: "/book-of-the-dead" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://book-of-the-dead.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
 

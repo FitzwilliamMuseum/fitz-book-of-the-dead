@@ -16,7 +16,7 @@ He has a symbol of the moon, both as a crescent and as the full moon, on his hea
 ## Spell 95.1
 {: .display-5 }
 
-![]({{site.baseurl}}/images/papyrus/bod_95_1.jpg{: .img-fluid }
+![]({{site.baseurl}}/images/papyrus/bod_95_1.jpg){: .img-fluid }
 ![]({{site.baseurl}}/images/papyrus/images/BD95pt1.jpg){: .img-fluid }
 
 ## Translation

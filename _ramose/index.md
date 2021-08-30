@@ -2,6 +2,7 @@
 title: Who was Ramose?
 layout: default
 permalink: /ramose/
+image: /images/06d.jpg
 ---
 
 ![Vignette from Ramose Book of the Dead]({{site.baseurl}}/images/06d.jpg)  

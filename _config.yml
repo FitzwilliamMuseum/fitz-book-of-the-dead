@@ -21,10 +21,10 @@
 title: "Passport to the Egyptian Afterlife: The Book of the Dead of Ramose"
 email: "dejp3@cam.ac.uk"
 description: >- # this means to ignore newlines until "baseurl:"
-  "Since it arrived at the Fitzwilliam Museum in 1922, the papyrus containing the
+  Since it arrived at the Fitzwilliam Museum in 1922, the papyrus containing the
   Book of the Dead written for the supervisor of royal archives, Ramose, has remained
   in storage, with the exception of two sections that were displayed for about
-  40 years. "
+  40 years.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://book-of-the-dead.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK

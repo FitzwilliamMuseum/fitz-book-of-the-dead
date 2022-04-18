@@ -1,5 +1,9 @@
 # The Book of the Dead
 
+[![DOI](https://zenodo.org/badge/383489613.svg)](https://zenodo.org/badge/latestdoi/383489613)
+
+
+
 ![Social card](https://repository-images.githubusercontent.com/383489613/ad703694-80d3-4edf-a033-8ad21e33900c)
 
 Since it arrived at the Fitzwilliam Museum in 1922, the papyrus containing the Book of the Dead written for the supervisor of royal archives, Ramose, has remained in storage, with the exception of two sections that were displayed for about 40 years. As a result, the beautiful colours of the pictures (vignettes) which illustrate the papyrus and the borders have remained in unusually good condition.

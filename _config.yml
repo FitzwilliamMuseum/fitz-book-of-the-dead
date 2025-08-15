@@ -29,7 +29,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://book-of-the-dead.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
-google_analytics: 'G-2R0YLY9DRS'
+#google_analytics: 'G-2R0YLY9DRS'
 background: "/images/front/E.2.1922a_dc1.jpg"
 # Build settings
 plugins:
